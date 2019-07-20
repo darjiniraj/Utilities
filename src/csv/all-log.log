@@ -1,0 +1,4 @@
+transactionId=123456765 | name=ConsumerBureau | ExecutionTime=2145 | type=IG | startDate=11111 | endDate=43567
+transactionId=123456765 | name=PostBureau | ExecutionTime=2245 | type=RE | startDate=12111 | endDate=44567
+transactionId=123456765 | name=API_STS | ExecutionTime=2345 | type=STS | startDate=13111 | endDate=45567
+transactionId=123456765 | name=CocoRule | ExecutionTime=2445 | type=COCO | startDate=14111 | endDate=46567
